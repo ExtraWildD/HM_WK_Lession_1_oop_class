@@ -1,0 +1,15 @@
+C:\Users\au10155\Desktop\с#\LECTION_C#\Examples\Ap_Dev_L_1\Ap_Dev_L_1\bin\Debug\net7.0\Ap_Dev_L_1.exe
+C:\Users\au10155\Desktop\с#\LECTION_C#\Examples\Ap_Dev_L_1\Ap_Dev_L_1\bin\Debug\net7.0\Ap_Dev_L_1.deps.json
+C:\Users\au10155\Desktop\с#\LECTION_C#\Examples\Ap_Dev_L_1\Ap_Dev_L_1\bin\Debug\net7.0\Ap_Dev_L_1.runtimeconfig.json
+C:\Users\au10155\Desktop\с#\LECTION_C#\Examples\Ap_Dev_L_1\Ap_Dev_L_1\bin\Debug\net7.0\Ap_Dev_L_1.dll
+C:\Users\au10155\Desktop\с#\LECTION_C#\Examples\Ap_Dev_L_1\Ap_Dev_L_1\bin\Debug\net7.0\Ap_Dev_L_1.pdb
+C:\Users\au10155\Desktop\с#\LECTION_C#\Examples\Ap_Dev_L_1\Ap_Dev_L_1\obj\Debug\net7.0\Ap_Dev_L_1.csproj.AssemblyReference.cache
+C:\Users\au10155\Desktop\с#\LECTION_C#\Examples\Ap_Dev_L_1\Ap_Dev_L_1\obj\Debug\net7.0\Ap_Dev_L_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\au10155\Desktop\с#\LECTION_C#\Examples\Ap_Dev_L_1\Ap_Dev_L_1\obj\Debug\net7.0\Ap_Dev_L_1.AssemblyInfoInputs.cache
+C:\Users\au10155\Desktop\с#\LECTION_C#\Examples\Ap_Dev_L_1\Ap_Dev_L_1\obj\Debug\net7.0\Ap_Dev_L_1.AssemblyInfo.cs
+C:\Users\au10155\Desktop\с#\LECTION_C#\Examples\Ap_Dev_L_1\Ap_Dev_L_1\obj\Debug\net7.0\Ap_Dev_L_1.csproj.CoreCompileInputs.cache
+C:\Users\au10155\Desktop\с#\LECTION_C#\Examples\Ap_Dev_L_1\Ap_Dev_L_1\obj\Debug\net7.0\Ap_Dev_L_1.dll
+C:\Users\au10155\Desktop\с#\LECTION_C#\Examples\Ap_Dev_L_1\Ap_Dev_L_1\obj\Debug\net7.0\refint\Ap_Dev_L_1.dll
+C:\Users\au10155\Desktop\с#\LECTION_C#\Examples\Ap_Dev_L_1\Ap_Dev_L_1\obj\Debug\net7.0\Ap_Dev_L_1.pdb
+C:\Users\au10155\Desktop\с#\LECTION_C#\Examples\Ap_Dev_L_1\Ap_Dev_L_1\obj\Debug\net7.0\Ap_Dev_L_1.genruntimeconfig.cache
+C:\Users\au10155\Desktop\с#\LECTION_C#\Examples\Ap_Dev_L_1\Ap_Dev_L_1\obj\Debug\net7.0\ref\Ap_Dev_L_1.dll
